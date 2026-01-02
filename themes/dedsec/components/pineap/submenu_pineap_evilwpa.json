@@ -32,7 +32,7 @@
           "y":50,
           "layers": [
             { "variable_name":  "$_EVIL_WPA_ENABLED", "use_template": "toggle" },
-            { "text": "Evil WPA AP", "x": 40, "text_color_palette": "blue" }
+            { "text": "Evil WPA AP", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "variable_name":  "$_EVIL_WPA_ENABLED", "use_template": "toggle" },
@@ -47,7 +47,7 @@
           "y":85,
           "layers": [
             { "variable_name":  "$_EVIL_WPA_HIDDEN", "use_template": "toggle" },
-            { "text": "Hidden", "x": 40, "text_color_palette": "blue" }
+            { "text": "Hidden", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "variable_name":  "$_EVIL_WPA_HIDDEN", "use_template": "toggle" },
@@ -62,7 +62,7 @@
           "y":120,
           "layers": [
             { "image_path": "assets/wizard.png" },
-            { "text": "Configuration", "x": 40, "text_color_palette": "blue" }
+            { "text": "Configuration", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/wizard.png" },
