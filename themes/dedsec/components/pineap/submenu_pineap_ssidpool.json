@@ -32,7 +32,7 @@
           "y":50,
           "layers": [
             { "image_path": "assets/menu.png" },
-            { "text": "SSID Pool", "x": 40, "text_color_palette": "blue" }
+            { "text": "SSID Pool", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/menu.png" },
@@ -46,7 +46,7 @@
           "y":85,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Add Network", "x": 40, "text_color_palette": "blue" }
+            { "text": "Add Network", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
@@ -61,7 +61,7 @@
           "y":120,
           "layers": [
             { "image_path": "assets/warning.png" },
-            { "text": "Clear Networks", "x": 40, "text_color_palette": "blue" }
+            { "text": "Clear Networks", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/warning.png" },

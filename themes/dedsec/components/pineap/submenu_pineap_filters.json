@@ -31,7 +31,7 @@
           "x":170,
           "y":50,
           "layers": [
-            { "text": "Client Filter:", "text_color_palette": "blue" },
+            { "text": "Client Filter:", "text_color_palette": "magenta" },
             { "variable_name": "$_FILTER_CLIENT_MODE", "x": 200, "toggle_template": {
               "enabled": [
                 { "image_path": "assets/swap.png","x": 72, "y": 2, "recolor_palette":  "gray" },
@@ -65,7 +65,7 @@
           "y":85,
           "layers": [
             { "image_path": "assets/menu.png" },
-            { "text": "Allowed Client List", "x": 40, "text_color_palette": "blue" }
+            { "text": "Allowed Client List", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/menu.png" },
@@ -81,7 +81,7 @@
 
           "layers": [
             { "image_path": "assets/menu.png" },
-            { "text": "Denied Client List", "x": 40, "text_color_palette": "blue" }
+            { "text": "Denied Client List", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/menu.png" },
@@ -96,7 +96,7 @@
           "y":155,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Add Allowed Client", "x": 40, "text_color_palette": "blue" }
+            { "text": "Add Allowed Client", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
@@ -111,7 +111,7 @@
           "y":190,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Add Denied Client", "x": 40, "text_color_palette": "blue" },
+            { "text": "Add Denied Client", "x": 40, "text_color_palette": "magenta" },
             { "image_path": "assets/down.png", "x": -20, "y": 10, "recolor_palette": "gray"}
           ],
           "selected_layers": [
@@ -132,7 +132,7 @@
           "x":170,
           "y":50,
           "layers": [
-            { "text": "Network Filter:", "text_color_palette": "blue" },
+            { "text": "Network Filter:", "text_color_palette": "magenta" },
             { "variable_name": "$_FILTER_NETWORK_MODE", "x": 200, "toggle_template": {
               "enabled": [
                 { "image_path": "assets/swap.png","x": 72, "y": 2, "recolor_palette":  "gray" },
@@ -168,7 +168,7 @@
           "y":85,
           "layers": [
             { "image_path": "assets/menu.png" },
-            { "text": "Allowed Network List", "x": 40, "text_color_palette": "blue" }
+            { "text": "Allowed Network List", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/menu.png" },
@@ -183,7 +183,7 @@
           "y":120,
           "layers": [
             { "image_path": "assets/menu.png" },
-            { "text": "Denied Network List", "x": 40, "text_color_palette": "blue" }
+            { "text": "Denied Network List", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/menu.png" },
@@ -198,7 +198,7 @@
           "y":155,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Add Allowed Network", "x": 40, "text_color_palette": "blue" }
+            { "text": "Add Allowed Network", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
@@ -213,7 +213,7 @@
           "y":190,
           "layers": [
             { "image_path": "assets/keyboard.png" },
-            { "text": "Add Denied Network", "x": 40, "text_color_palette": "blue" }
+            { "text": "Add Denied Network", "x": 40, "text_color_palette": "magenta" }
           ],
           "selected_layers": [
             { "image_path": "assets/keyboard.png" },
